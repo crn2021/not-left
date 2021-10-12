@@ -2,7 +2,8 @@
     "name": "NOT Left",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "slimes": "github:shakao/arcade-slimes#v0.0.1"
     },
     "files": [
         "main.blocks",
